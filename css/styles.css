@@ -258,19 +258,7 @@ p {
   color: white;
 }
 
-.download-btn {
-  background-color: dodgerblue;
-  color: white;
-  padding: 1rem 1rem;
-  font-size: 2rem;
-  text-decoration: none;
-  border-radius: 5px;
-  margin-left: 800px;
-}
 
-.download-btn:hover {
-  background-color: royalblue;
-}
 /* Contact page */
 
 .contactHeader {
@@ -303,9 +291,6 @@ p {
     margin-right: 120px;
   }
 
-  .download-btn{
-    margin-left: 40px;
-  }
   nav img {
     display: block;
     margin-right: 45px;
