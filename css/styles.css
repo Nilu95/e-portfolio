@@ -1,0 +1,316 @@
+/* The body of the page */
+body {
+  background-color: #2b4570;
+}
+
+/* Navigation for all the pages */
+nav {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav img {
+  padding-left: 50px;
+  max-width: 225px;
+  max-height: 247px;
+}
+
+nav a {
+  text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  border-radius: 50px;
+  background-color: #7180ac;
+  margin: auto;
+  padding: 20px 60px;
+  font-family: "League Spartan", sans-serif;
+  font-weight: 100;
+  width: 180px;
+}
+
+/* Home page content */
+.center {
+  text-align: right;
+  margin: auto;
+}
+
+.center img {
+  width: 435px;
+  height: 455px;
+  border-radius: 50px;
+}
+.centerText {
+  margin-top: -520px;
+}
+
+.centerText h1 {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 600;
+  text-align: left;
+  padding-left: 90px;
+  font-size: 83px;
+  color: white;
+}
+
+.centerText p {
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+  padding-left: 90px;
+  font-weight: 600;
+  font-size: 32px;
+  color: white;
+}
+
+.callToAction a {
+  text-decoration: none;
+  display: block;
+  color: white;
+  text-align: left;
+  border-radius: 50px;
+  background-color: #e49273;
+  padding: 20px 60px;
+  font-family: "League Spartan", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  max-width: 215px;
+  margin: auto 70px;
+}
+
+/* Footer for home page */
+.text-end {
+  text-align: right;
+  padding-right: 70px;
+  padding-top: 50px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+/* Footer layout for the Project page */
+.photoPage footer {
+  margin-top: 10px;
+  padding-left: 100px;
+}
+
+.card-deck .card {
+  width: 2rem;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 150px;
+}
+
+/* Resume box content */
+
+.content {
+  width: 95%;
+  display: grid;
+  padding: 20px 0px 20px 0px;
+  min-width: 240px;
+  max-width: 760px;
+  margin: auto;
+  min-height: 100%;
+  color: white;
+}
+
+.content h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.content h4 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.content h5 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.content li,
+p {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.profile {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.profile-text {
+  grid-column-start: 2;
+  grid-column-end: 6;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.education {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.education-degree {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.education-dates {
+  grid-column-start: 5;
+  grid-column-end: 6;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.proExperience {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.proExperience-work {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.proExperience-dates {
+  grid-column-start: 5;
+  grid-column-end: 6;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.volExperience {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.volExperience-work {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.volExperience-dates {
+  grid-column-start: 5;
+  grid-column-end: 6;
+  text-align: left;
+  border: 2px solid white;
+  padding: 10px;
+  background-color: #7180ac;
+}
+
+.resume-download {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.resume-download a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.resume-download a h1 {
+  font-size: 24px;
+  margin-left: 10px;
+  color: red;
+}
+
+/* Contact page */
+
+.contactHeader {
+  text-align: center;
+  margin-top: 90px;
+  font-size: 40px;
+  color: white;
+}
+
+.contactDetails p {
+  padding-left: 32%;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: white;
+}
+
+.contacePage footer {
+  margin-top: 250px;
+}
+/* Responsive design */
+@media only screen and (max-width: 600px) {
+  nav img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  nav {
+    flex-direction: column;
+  }
+
+  nav a {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .center img {
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+  }
+
+  .centerText {
+    padding-top: 570px;
+  }
+
+  .card-deck-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
