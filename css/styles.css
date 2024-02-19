@@ -287,10 +287,32 @@ p {
 /* Responsive design */
 @media only screen and (max-width: 600px) {
 
+  /* Resume phone layout */
+
+  .BAdate{
+    margin-top: -80px;
+  }
+  .vicesupport{
+    margin-top: 340px;
+  }
+
+  .healthCommittee{
+    margin-top: 415px;
+  }
+
+  .conferenceReg{
+    margin-top: -10px;
+  }
+
+  .summerIntern{
+    margin-top: 60px;
+  }
+  /* Contact me page */
   .contactDetails{
     margin-right: 120px;
   }
 
+  /* Navigation  */
   nav img {
     display: block;
     margin-right: 45px;
@@ -321,6 +343,7 @@ p {
     padding-top: 570px;
   }
 
+  /* Projects */
   .card-deck-container {
     display: flex;
     flex-direction: column;
