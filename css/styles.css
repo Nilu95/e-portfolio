@@ -296,7 +296,6 @@ p {
     padding: 20px 60px;
     font-family: "League Spartan", sans-serif;
     font-weight: 100;
-    margin-top: 20px;
     width: 70px !important;
   }
 
@@ -315,7 +314,6 @@ p {
   .summerIntern {
     margin-top: -135px;
   }
-
   .center {
     margin-right: 55px;
   }
@@ -324,6 +322,13 @@ p {
 /* Responsive design */
 @media only screen and (max-width: 600px) {
   /* Resume phone layout */
+
+  .contactDetails {
+    margin: auto;
+  }
+  .center {
+    margin: auto;
+  }
 
   .BAdate {
     margin-top: -80px;
@@ -380,8 +385,7 @@ p {
   }
 
   .callToAction a {
-    margin-top: 30px;
-    text-align: center;
+    margin: auto;
   }
 
   /* Projects */
