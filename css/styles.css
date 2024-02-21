@@ -76,7 +76,7 @@ nav a {
   font-size: 32px;
   font-weight: 400;
   max-width: 215px;
-  margin: auto 70px;
+  margin: 20px 70px;
 }
 
 /* Footer for home page */
@@ -315,6 +315,10 @@ p {
   .summerIntern {
     margin-top: -135px;
   }
+
+  .center {
+    margin-right: 55px;
+  }
 }
 
 /* Responsive design */
@@ -373,6 +377,11 @@ p {
 
   .centerText {
     padding-top: 570px;
+  }
+
+  .callToAction a {
+    margin-top: 30px;
+    text-align: center;
   }
 
   /* Projects */
