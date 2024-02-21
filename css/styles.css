@@ -258,7 +258,6 @@ p {
   color: white;
 }
 
-
 /* Contact page */
 
 .contactHeader {
@@ -284,31 +283,63 @@ p {
   text-align: left;
   margin-bottom: 3px;
 }
-/* Responsive design */
-@media only screen and (max-width: 600px) {
 
-  /* Resume phone layout */
+@media only screen and (max-width: 2366px) {
+  .homeNav a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+    background-color: #7180ac;
+    margin: auto;
+    padding: 20px 60px;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 100;
+    width: 70px !important;
+  }
 
   .BAdate{
     margin-top: -80px;
   }
   .vicesupport{
+    margin-top: -95px;
+  }
+  .healthCommittee{
+    margin-top: -95px;
+  }
+  .conferenceReg{
+    margin-top: -140px;
+  }
+  .summerIntern{
+    margin-top: -135px;
+  }
+}
+
+/* Responsive design */
+@media only screen and (max-width: 600px) {
+  /* Resume phone layout */
+
+  .BAdate {
+    margin-top: -80px;
+  }
+  .vicesupport {
     margin-top: 340px;
   }
 
-  .healthCommittee{
+  .healthCommittee {
     margin-top: 415px;
   }
 
-  .conferenceReg{
+  .conferenceReg {
     margin-top: -10px;
   }
 
-  .summerIntern{
+  .summerIntern {
     margin-top: 60px;
   }
   /* Contact me page */
-  .contactDetails{
+  .contactDetails {
     margin-right: 120px;
   }
 
