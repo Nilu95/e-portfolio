@@ -288,7 +288,7 @@ p {
   .homeNav a {
     text-decoration: none;
     display: block;
-    color: white;
+    color: red !important;
     text-align: center;
     border-radius: 50px;
     background-color: #7180ac;
@@ -299,19 +299,19 @@ p {
     width: 70px !important;
   }
 
-  .BAdate{
+  .BAdate {
     margin-top: -80px;
   }
-  .vicesupport{
+  .vicesupport {
     margin-top: -95px;
   }
-  .healthCommittee{
+  .healthCommittee {
     margin-top: -95px;
   }
-  .conferenceReg{
+  .conferenceReg {
     margin-top: -140px;
   }
-  .summerIntern{
+  .summerIntern {
     margin-top: -135px;
   }
 }
