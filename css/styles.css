@@ -321,13 +321,13 @@ p {
   .center {
     margin-right: 55px;
   }
-  .viseSupport {
+  /* .viseSupport {
     margin-top: 50px !important;
   }
-
+  
   .vicesupport {
     margin-top: -100px !important;
-  }
+  } */
 }
 
 /* Responsive design */
@@ -359,13 +359,13 @@ p {
   .summerIntern {
     margin-top: 60px;
   }
-
-  .viseSupport {
-    margin-top: 940px;
-  }
   /* Contact me page */
   .contactDetails {
     margin-right: 120px;
+  }
+
+  .viseSupport {
+    margin-top: 440px;
   }
 
   /* Navigation  */
