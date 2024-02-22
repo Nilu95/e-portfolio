@@ -344,6 +344,11 @@ p {
   .BAdate {
     margin-top: -80px;
   }
+
+  .viseSupport {
+    margin-top: 840px;
+  }
+
   .vicesupport {
     margin-top: 320px;
   }
@@ -362,10 +367,6 @@ p {
   /* Contact me page */
   .contactDetails {
     margin-right: 120px;
-  }
-
-  .viseSupport {
-    margin-top: 840px;
   }
 
   /* Navigation  */
@@ -418,7 +419,7 @@ p {
     margin-bottom: 20px;
   }
 
-  .vicesupport {
+  /* .vicesupport {
     margin-top: -150px !important;
-  }
+  } */
 }
