@@ -364,9 +364,9 @@ p {
     margin-right: 120px;
   }
 
-  /* .viseSupport {
-    margin-top: 840px;
-  } */
+  .viseSupport {
+    margin-top: -150px;
+  }
 
   /* Navigation  */
   nav img {
