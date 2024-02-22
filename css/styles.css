@@ -325,9 +325,9 @@ p {
     margin-top: 50px !important;
   }
   
-  .vicesupport {
+  /* .vicesupport {
     margin-top: -100px !important;
-  }
+  } */
 }
 
 /* Responsive design */
@@ -416,5 +416,9 @@ p {
   .card {
     margin-top: 20px;
     margin-bottom: 20px;
+  }
+
+  .vicesupport {
+    margin-top: -100px !important;
   }
 }
