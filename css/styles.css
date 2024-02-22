@@ -258,7 +258,7 @@ p {
   color: white;
 }
 
-.viseSupport{
+.viseSupport {
   margin-top: 50px;
 }
 
@@ -321,6 +321,14 @@ p {
   .center {
     margin-right: 55px;
   }
+
+  .viseSupport {
+    margin-top: 50px;
+  }
+
+  .vicesupport{
+    margin-top: 50px;
+  }
 }
 
 /* Responsive design */
@@ -357,7 +365,7 @@ p {
     margin-right: 120px;
   }
 
-  .viseSupport{
+  .viseSupport {
     margin-top: 440px;
   }
 
@@ -376,7 +384,7 @@ p {
     text-align: center;
   }
 
-  .homeNav a{
+  .homeNav a {
     margin-top: 20px;
   }
 
