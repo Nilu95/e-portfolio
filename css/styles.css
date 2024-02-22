@@ -325,10 +325,10 @@ p {
     margin-top: 50px !important;
   } */
 
-  /* .vicesupport {
-    margin-top: -100px !important;
-  } */
-  
+  .vicesupport {
+    margin-top: 50px !important;
+  }
+
 }
 
 /* Responsive design */
