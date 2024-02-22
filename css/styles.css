@@ -321,13 +321,13 @@ p {
   .center {
     margin-right: 55px;
   }
-  /* .viseSupport {
+  .viseSupport {
     margin-top: 50px !important;
-  } */
+  }
 
-  /* .vicesupport {
+  .vicesupport {
     margin-top: -100px !important;
-  } */
+  }
 }
 
 /* Responsive design */
@@ -418,7 +418,7 @@ p {
     margin-bottom: 20px;
   }
 
-    /* .viseSupport {
+  /* .viseSupport {
     margin-top: 550px !important;
   }
 
