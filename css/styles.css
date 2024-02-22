@@ -321,9 +321,9 @@ p {
   .center {
     margin-right: 55px;
   }
-  .viseSupport {
+  /* .viseSupport {
     margin-top: 50px !important;
-  }
+  } */
 
   /* .vicesupport {
     margin-top: -100px !important;
@@ -416,6 +416,10 @@ p {
   .card {
     margin-top: 20px;
     margin-bottom: 20px;
+  }
+
+    .viseSupport {
+    margin-top: 50px !important;
   }
 
   .vicesupport {
