@@ -364,9 +364,9 @@ p {
     margin-right: 120px;
   }
 
-  .viseSupport p {
+  /* .viseSupport {
     margin-top: 760px;
-  }
+  } */
 
   /* Navigation  */
   nav img {
@@ -418,7 +418,7 @@ p {
     margin-bottom: 20px;
   }
 
-    /* .viseSupport {
+  /* .viseSupport {
     margin-top: 550px !important;
   }
 
