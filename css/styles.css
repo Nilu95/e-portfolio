@@ -325,9 +325,10 @@ p {
     margin-top: 50px !important;
   } */
 
-  /* .vicesupport {
+  .vicesupport {
     margin-top: 50px !important;
-  } */
+  }
+
 }
 
 /* Responsive design */
@@ -365,7 +366,7 @@ p {
   }
 
   .viseSupport {
-    margin-top: 450px !important;
+    margin-top: 840px;
   }
 
   /* Navigation  */
@@ -418,11 +419,11 @@ p {
     margin-bottom: 20px;
   }
 
-  /* .viseSupport {
+    /* .viseSupport {
     margin-top: 550px !important;
-  }*/
+  }
 
   .vicesupport {
     margin-top: 150px !important;
-  }
+  } */
 }
