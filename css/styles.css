@@ -288,6 +288,14 @@ p {
   margin-bottom: 3px;
 }
 
+.viseSupport {
+  margin-top: 50px;
+}
+
+.vicesupport{
+  margin-top: 50px;
+}
+
 @media only screen and (max-width: 2000px) {
   .homeNav a {
     text-decoration: none;
@@ -320,14 +328,6 @@ p {
   }
   .center {
     margin-right: 55px;
-  }
-
-  .viseSupport {
-    margin-top: 50px;
-  }
-
-  .vicesupport{
-    margin-top: 50px;
   }
 }
 
