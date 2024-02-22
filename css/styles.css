@@ -365,7 +365,7 @@ p {
   }
 
   .viseSupport {
-    margin-top: 250px;
+    margin-top: 250px !important;
   }
 
   /* Navigation  */
