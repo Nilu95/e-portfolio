@@ -368,6 +368,10 @@ p {
     text-align: center;
   }
 
+  .homeNav a{
+    margin-top: 20px;
+  }
+
   .resumenav {
     margin-top: 20px;
     text-align: center;
