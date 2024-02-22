@@ -289,11 +289,11 @@ p {
 }
 
 .viseSupport {
-  margin-top: 50px;
+  margin-top: 50px !important;
 }
 
 .vicesupport {
-  margin-top: 50px;
+  margin-top: 50px !important;
 }
 
 @media only screen and (max-width: 2000px) {
@@ -329,7 +329,6 @@ p {
   .center {
     margin-right: 55px;
   }
-
 }
 
 /* Responsive design */
