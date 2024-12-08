@@ -58,11 +58,13 @@ nav a {
 .centerText p {
   font-family: "Open Sans", sans-serif;
   text-align: left;
+  max-width: 600px;
   padding-left: 90px;
   font-weight: 600;
   font-size: 32px;
   color: white;
 }
+
 
 .callToAction a {
   text-decoration: none;
