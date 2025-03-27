@@ -104,166 +104,7 @@ nav a {
   margin-bottom: 150px;
 }
 
-/* Resume box content */
-
-/* .content {
-  width: 95%;
-  display: grid;
-  padding: 20px 0px 20px 0px;
-  min-width: 240px;
-  max-width: 760px;
-  margin: auto;
-  min-height: 100%;
-  color: white;
-}
-
-.content h2 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: 600;
-  font-size: 32px;
-}
-
-.content h4 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: 600;
-  font-size: 25px;
-}
-
-.content h5 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: 600;
-  font-size: 20px;
-}
-
-.content li,
-p {
-  font-family: "League Spartan", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-}
-
-.profile {
-  grid-column-start: 1;
-  grid-column-end: 2;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.profile-text {
-  grid-column-start: 2;
-  grid-column-end: 6;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.education {
-  grid-column-start: 1;
-  grid-column-end: 2;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.education-degree {
-  grid-column-start: 2;
-  grid-column-end: 5;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.education-dates {
-  grid-column-start: 5;
-  grid-column-end: 6;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.proExperience {
-  grid-column-start: 1;
-  grid-column-end: 2;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.proExperience-work {
-  grid-column-start: 2;
-  grid-column-end: 5;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.proExperience-dates {
-  grid-column-start: 5;
-  grid-column-end: 6;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.volExperience {
-  grid-column-start: 1;
-  grid-column-end: 2;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.volExperience-work {
-  grid-column-start: 2;
-  grid-column-end: 5;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.volExperience-dates {
-  grid-column-start: 5;
-  grid-column-end: 6;
-  text-align: left;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: #7180ac;
-}
-
-.resume-download {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 50px;
-}
-
-.resume-download a {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-}
-
-.resume-download a h1 {
-  font-size: 24px;
-  margin-left: 10px;
-  color: white;
-}
-
-.viseSupport {
-  margin-top: 50px;
-} */
-
+/* Resume */
 .resume-card {
   position: relative;
   width: 350px;
@@ -366,20 +207,13 @@ p {
   .center {
     margin-right: 55px;
   }
-  /* .viseSupport {
-    margin-top: 50px !important;
-  } */
-
-  /* .vicesupport {
-    margin-top: -100px !important;
-  } */
 }
 
 /* Responsive design */
 @media only screen and (max-width: 600px) {
   /* Resume phone layout */
 
-  .contactDetails {
+  /* .contactDetails {
     margin: auto;
   }
   .center {
@@ -408,7 +242,7 @@ p {
 
   .summerIntern {
     margin-top: 60px;
-  }
+  } */
   /* Contact me page */
   .contactDetails {
     margin-right: 120px;
@@ -464,7 +298,4 @@ p {
     margin-bottom: 20px;
   }
 
-  /* .vicesupport {
-    margin-top: -150px !important;
-  } */
 }
