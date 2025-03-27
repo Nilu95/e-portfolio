@@ -148,6 +148,12 @@ nav a {
   filter: blur(2px);
 }
 
+.ResumePage footer {
+  margin-top: 10px;
+  padding-left: 100px;
+  color: black;
+}
+
 /* Contact page */
 
 .contactHeader {
@@ -211,13 +217,13 @@ nav a {
 
 /* Responsive design */
 @media only screen and (max-width: 600px) {
-  
+
   /* Contact me page */
   .contactDetails {
     margin-right: 120px;
   }
 
-  /* Navigation  */
+  /* Navigation */
   nav img {
     display: block;
     margin-right: 45px;
@@ -256,6 +262,7 @@ nav a {
     margin: auto;
   }
 
+  /* Footer */
   footer {
     display: flex;
     justify-content: center;
