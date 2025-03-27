@@ -106,7 +106,7 @@ nav a {
 
 /* Resume box content */
 
-.content {
+/* .content {
   width: 95%;
   display: grid;
   padding: 20px 0px 20px 0px;
@@ -262,6 +262,49 @@ p {
 
 .viseSupport {
   margin-top: 50px;
+} */
+
+.resume-card {
+  position: relative;
+  width: 350px;
+  height: 450px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.resume-image {
+  width: 100%;
+  height: 100%;
+  background: url("../images/NiloyPatrikSenesi_Resume.png") center/cover no-repeat;
+  filter: blur(5px); 
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0; 
+}
+
+.resume-overlay {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  z-index: 1; 
+}
+
+.resume-overlay .btn {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black;
+  font-weight: bold;
+  border: none;
+  z-index: 2;
+}
+
+.resume-card:hover .resume-image {
+  filter: blur(2px);
 }
 
 /* Contact page */
