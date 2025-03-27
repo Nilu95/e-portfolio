@@ -211,38 +211,7 @@ nav a {
 
 /* Responsive design */
 @media only screen and (max-width: 600px) {
-  /* Resume phone layout */
-
-  /* .contactDetails {
-    margin: auto;
-  }
-  .center {
-    margin: auto;
-  }
-
-  .BAdate {
-    margin-top: -80px;
-  }
-
-  .viseSupport {
-    margin-top: 450px;
-  }
-
-  .vicesupport {
-    margin-top: 320px;
-  }
-
-  .healthCommittee {
-    margin-top: 320px;
-  }
-
-  .conferenceReg {
-    margin-top: -35px;
-  }
-
-  .summerIntern {
-    margin-top: 60px;
-  } */
+  
   /* Contact me page */
   .contactDetails {
     margin-right: 120px;
@@ -285,6 +254,18 @@ nav a {
 
   .callToAction a {
     margin: auto;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10px 0;
+  }
+
+  .text-end {
+    text-align: center;
   }
 
   /* Projects */
